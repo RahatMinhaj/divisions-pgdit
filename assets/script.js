@@ -6,7 +6,7 @@ function show(div) {
             places: [
                 {
                     name: "Lalbagh Fort",
-                    img: "assets/images/lalbagh.jpg",
+                    img: "assets/images/Lalbagh.jpg",
                     desc: "A Mughal-era fort built in the 17th century and one of the most famous historical landmarks in Dhaka."
                 },
                 {
